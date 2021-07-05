@@ -1,6 +1,6 @@
 /*like*/
 .img {
-   text-align: center;
+   display: flex;
 }
 
 .vid {
